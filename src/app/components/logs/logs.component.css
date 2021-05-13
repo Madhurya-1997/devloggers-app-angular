@@ -1,0 +1,14 @@
+.log-date {
+    color: #777;
+}
+
+.fa-trash{
+    color: #023047
+}
+
+.fa-trash:hover{ 
+    color: #e63946;
+    transition: all 0.2s ease-in;
+    cursor: pointer;
+    transform: scale(1.2);
+}
